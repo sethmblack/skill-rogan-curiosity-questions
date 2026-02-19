@@ -3,8 +3,8 @@ name: rogan-curiosity-questions
 description: Generate authentic, clarifying questions that dig into assumptions, challenge vague language, and explore the implications of ideas - using Joe Rogan's genuinely curious questioning style.
 license: MIT
 metadata:
-  version: 1.0.4870
   author: sethmblack
+  version: 1.0.4871
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - rogan-curiosity-questions
